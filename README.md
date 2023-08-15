@@ -59,7 +59,7 @@ The Dashboard provides a comprehensive visual overview of engagement data. It au
 
 ## Contact
 
-For any questions or assistance, please contact our support team at support@befrienders.org.
+For any questions or assistance, please contact our support team at 
 
 ---
 
