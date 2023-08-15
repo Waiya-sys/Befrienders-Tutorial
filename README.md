@@ -1,6 +1,6 @@
 # Befrienders Excel Dashboard Tutorial
 
-Welcome to the Befrienders Excel Dashboard Tutorial. This guide will walk you through the steps of using the Excel dashboard, data sheet, and form to manage and visualize engagement information.
+Welcome to the Befrienders Excel Dashboard Tutorial. This comprehensive guide will walk you through using the Excel dashboard, data sheet, and form to effectively manage engagement information and gain insights through data analysis and visualization.
 
 ## Table of Contents
 
@@ -8,14 +8,14 @@ Welcome to the Befrienders Excel Dashboard Tutorial. This guide will walk you th
 2. [Prerequisites](#prerequisites)
 3. [Dashboard Overview](#dashboard-overview)
 4. [Entering Engagement Information](#entering-engagement-information)
-5. [Populating the Data Sheet](#populating-the-data-sheet)
-6. [Visualizing Data on the Dashboard](#visualizing-data-on-the-dashboard)
+5. [Data Analysis and Visualization](#data-analysis-and-visualization)
+6. [Using Dashboard Filters](#using-dashboard-filters)
 7. [Troubleshooting](#troubleshooting)
 8. [Contact](#contact)
 
 ## Introduction
 
-The Befrienders Excel Dashboard provides an effective way to manage engagement information and visualize data. It consists of three components: the Dashboard, Data Sheet, and Form.
+The Befrienders Excel Dashboard offers a powerful tool for tracking engagement, analyzing data, and visualizing trends. It comprises three essential components: the Dashboard, Data Sheet, and Form.
 
 ## Prerequisites
 
@@ -24,37 +24,43 @@ The Befrienders Excel Dashboard provides an effective way to manage engagement i
 
 ## Dashboard Overview
 
-The Dashboard offers visual representations of engagement data. It updates dynamically based on information entered in the Data Sheet.
+The Dashboard provides a comprehensive visual overview of engagement data. It automatically updates based on information entered in the Data Sheet.
 
 ## Entering Engagement Information
 
 1. Open the Excel file and navigate to the "Form" sheet.
-2. Fill in the engagement details in the provided fields (e.g., date, type of engagement, participants, etc.).
-3. Press "Enter" after filling the form.
+2. Fill in the engagement details in the provided fields:
+   - Name/Anonymous, Age, Gender, Marital Status, Counselor Preference.
+   - Possible Areas of Concern, Communication Channel, Suicide Analysis.
+   - Bereavement Status, Past Psychiatrist History.
+3. Click "Save" to record the engagement.
 
-## Populating the Data Sheet
+## Data Analysis and Visualization
 
-1. After entering engagement information, the data will be automatically populated in the "Data Sheet."
+1. Engagements are recorded in the "Data Sheet," containing 14 columns for each field.
 2. The "Data Sheet" acts as a repository of all engagement records.
-3. **Do not modify the structure of the Data Sheet** to ensure proper functioning of the dashboard.
+3. **Avoid modifying the Data Sheet structure** to ensure proper functionality.
 
-## Visualizing Data on the Dashboard
+## Using Dashboard Filters
 
-1. Go to the "Dashboard" sheet to visualize engagement data.
-2. The dashboard automatically updates based on the information in the "Data Sheet."
-3. Charts, graphs, and visuals provide insights into engagement trends and patterns.
+1. Access the "Dashboard" sheet to analyze and visualize engagement data.
+2. Utilize filters on the far-left to refine data analysis by:
+   - Dates, Channel of Communication, Years, Marital Status, Gender.
+   - Suicide Thoughts and Attempts.
+3. The right side of the dashboard presents several graphs, including:
+   - Channel Analysis, Age Analysis, Marital Status Analysis.
+   - Suicide Attempt and Gender Analysis, Total Engagement Count.
+   - Suicide Thought Analysis.
 
 ## Troubleshooting
 
-- If the dashboard doesn't update, ensure that the Data Sheet is populated correctly.
-- Avoid altering formulas or deleting rows/columns in the Data Sheet.
+- If the dashboard doesn't update, ensure correct data entry in the Data Sheet.
+- Do not alter formulas or delete rows/columns in the Data Sheet.
 
 ## Contact
 
-For any questions or assistance, feel free to reach out to our support team at support@befrienders.org.
+For any questions or assistance, please contact our support team at support@befrienders.org.
 
 ---
 
-By following these steps, you can effectively manage and visualize engagement data using the Befrienders Excel Dashboard. Enjoy a streamlined way to track and analyze your organization's engagement activities!
-# Befrienders-Tutorial
-Befrienders Dashboard Tutorial
+By following these steps, you can efficiently manage engagement data using the Befrienders Excel Dashboard. Gain insights, analyze trends, and make informed decisions to further your organization's mission of suicide prevention and support.
