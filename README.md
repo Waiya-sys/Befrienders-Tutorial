@@ -19,8 +19,11 @@ The <span style="color: blue;">**Befrienders Excel Dashboard**</span> offers a p
 
 ## Prerequisites
 
-- Microsoft Excel installed on your computer.
-- Basic familiarity with Excel navigation.
+1. Microsoft Excel installed on your computer.
+2. Basic familiarity with Excel navigation.
+3. If the Developer tab isn't displayed by default, you can add it to the ribbon.
+   - On the File tab, go to Options > Customize Ribbon.
+   - Under Customize the Ribbon and under Main Tabs, select the Developer check box.
 
 ## Dashboard Overview
 
