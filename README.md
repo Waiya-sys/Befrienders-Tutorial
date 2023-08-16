@@ -62,8 +62,8 @@ The Dashboard provides a comprehensive visual overview of engagement data. It au
 
 ## Contact
 
-For any questions or assistance, please contact our support team at <span style="color: blue;">support@befrienders.org</span>.
+For any questions or assistance, please contact our support team at <span style="color: blue;<kendi.muchungi@aku.edu>.
 
 ---
 
-By following these steps, you can efficiently manage engagement data using the **Befrienders Excel Dashboard**. Gain insights, analyze trends, and make informed decisions to further your organization's mission of suicide prevention and support.
+
