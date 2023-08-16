@@ -62,7 +62,7 @@ The Dashboard provides a comprehensive visual overview of engagement data. It au
 
 ## Contact
 
-For any questions or assistance, please contact our support team at <span style="color: blue;<kendi.muchungi@aku.edu>.
+For any questions or assistance, please contact our support team at <kendi.muchungi@aku.edu>.
 
 ---
 
