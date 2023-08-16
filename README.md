@@ -38,6 +38,19 @@ The Dashboard provides a comprehensive visual overview of engagement data. It au
    - **Bereavement Status**, **Past Psychiatrist History**.
 3. Click "**Save**" to record the engagement.
 
+## Refreshing Data.
+
+1. Refresh Pivot Tables:
+ -Pivot tables in Excel are dynamic, meaning they automatically adjust to changes in the source data. However, you often need to refresh them manually to reflect the latest data.
+ -Select any cell within a pivot table.
+ -Go to the "PivotTable Tools" or "Analyzing" tab in the Excel ribbon.
+ -Click on the "Refresh" button. This will update all pivot tables in the workbook to reflect changes in the source data.
+2. Automatic Refresh:
+ -If you want your pivot tables to update automatically whenever changes are made to the source data, you can set the refresh options.
+
+ -Right-click on a pivot table and select "PivotTable Options."
+ -Under the "Data" tab, select "Refresh data when opening the file" and "Refresh this data when opening the file."
+ -This way, the pivot tables will be updated whenever you open the file.
 ## Data Analysis and Visualization
 
 1. Engagements are recorded in the "Data Sheet," containing 14 columns for each field.
